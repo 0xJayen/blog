@@ -3,6 +3,7 @@ title: 01. Git Configuration
 description: Configure Git with ignored files, custom commit message templates and Git LFS tracking.
 date: "2025-03-08T00:34:15+06:00"
 tags: ["devlog"]
+categories: ["trading-platform"]
 author: "Jayen"
 ---
 
