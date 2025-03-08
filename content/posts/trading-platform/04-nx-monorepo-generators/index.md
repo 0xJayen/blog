@@ -77,7 +77,7 @@ latest version from the `package.json` file. There's a nice little CLI that lets
 single command.
 
 ```bash
-npx npm-check-updates --upgrade --removeRange
+npx npm-check-updates --deep --upgrade --removeRange
 ```
 
 **CAUTION**: This will upgrade every package to their latest available version without checking for
